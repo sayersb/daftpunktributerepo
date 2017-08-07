@@ -1,0 +1,64 @@
+container{
+  border: 1px solid silver;
+  padding: 0px;
+  margin-top:20px;
+  margin-bottom:20px;
+  border-radius:10px;
+}
+.header{
+  background-image:
+  url("https://yt3.ggpht.com/-gUy779EVYRo/AAAAAAAAAAI/AAAAAAAAAAA/anndA8_-rFA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg");
+  height:70px;
+  background-size:cover;
+  background-position:center;
+  background-attachment:fixed;
+  border-radius: 10px 10px 10px 0px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:#FFD700;
+  }
+
+ h1{
+   color:#FFD700;
+   font-weight:bolder;
+   font-size: 50px;
+   margin: 0;
+   letter spacing:-1.5 px;
+   }
+
+
+
+body{
+  background-image:
+  url("http://3.bp.blogspot.com/-7FMT2KMlQsI/TWDGplf_jLI/AAAAAAAAEX8/ecOo-dQIilg/s1600/daft+punk+pyramid+torquois.png");
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+.span-text{
+  font-size:19px;
+  font-weight:bold;
+ text-align:center;
+ position:fixed;
+ left:0;
+ right:0;
+}
+
+.gold {
+  color:#FFD700;
+}
+.silver {
+  color:#C0C0C0;
+  }
+
+h3{
+  color:#FFD700;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0.75rem;
+  background-color: #efefef;
+  text-align: center;
+}
